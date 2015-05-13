@@ -1,0 +1,28 @@
+{
+  "name": "angular-scroll-state",
+  "main": "angular-scroll-state.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dmdez/angular-scroll-state",
+  "authors": [
+    "Deric Mendez <deric@cremalab.com>"
+  ],
+  "description": "Saves angular scroll state when changing routes.",
+  "keywords": [
+    "angular",
+    "scroll",
+    "state",
+    "scrollstate",
+    "router",
+    "routing",
+    "scroll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ]
+}
